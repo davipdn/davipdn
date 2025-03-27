@@ -2,9 +2,15 @@
 <code>System.out.println("Oi")</code>
 
  <hr>
+ ### Hi 👋
+
+My name is Davi Nascimento and i'm a Back End Developer
  <hr>
  
  [![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,docker)](https://skillicons.dev)
+
+
+### Contact📱
 
 <div> 
   <a href="https://www.youtube.com/@devdaavi" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
