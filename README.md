@@ -1,11 +1,6 @@
-👨🏻‍💻
-<code>System.out.println("Oi")</code>
+### Hi 👋
 
- <hr>
- Hi 👋
-
-My name is Davi Nascimento and i'm a Back End Developer
- <hr>
+My name is Davi Nascimento and i'm a Back End Developer👨🏻‍💻
  
  [![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,docker)](https://skillicons.dev)
 
